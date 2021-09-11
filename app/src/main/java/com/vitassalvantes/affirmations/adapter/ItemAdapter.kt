@@ -39,6 +39,7 @@ class ItemAdapter(private val context: Context, private val dataset: List<Affirm
      */
     override fun onBindViewHolder(holder: ItemViewHolder, position: Int) {
         val item = dataset[position]
+        holder.binding.itemImage.setImageResource(item.imageResourceId)
         holder.binding.itemTitle.text = context.resources.getString(item.stringResourceId)
     }
 
