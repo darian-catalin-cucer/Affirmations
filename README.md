@@ -27,7 +27,9 @@ with [RecyclerView](https://developer.android.com/guide/topics/ui/layout/recycle
 
 *All screenshots are relevant for version 1.0*
 
-...
+At the beginning:
+
+<img src="screenshots/screenshot_main.png" alt="screenshot_main" style="width:231px;height:500px;">
 
 ## Technologies
 
