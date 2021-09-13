@@ -1,6 +1,6 @@
 # Affirmations
 
-[![current version](https://img.shields.io/badge/current_version-1.0-green)](#Affirmations)
+[![current version](https://img.shields.io/badge/current_version-1.5-green)](#Affirmations)
 
 This is a simple affirmation app for Android that was created as part of
 course [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
@@ -25,7 +25,7 @@ with [RecyclerView](https://developer.android.com/guide/topics/ui/layout/recycle
 
 ## Screenshots
 
-*All screenshots are relevant for version 1.0*
+*All screenshots are relevant for version 1.5*
 
 At the beginning:
 
